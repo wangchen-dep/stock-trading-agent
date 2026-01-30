@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+*.class
+*.log
+data/raw/*.csv
+models/*.model
+results/*.csv
+.DS_Store

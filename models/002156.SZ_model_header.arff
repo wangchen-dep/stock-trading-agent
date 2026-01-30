@@ -1,0 +1,29 @@
+@relation '002156.SZ_features-weka.filters.unsupervised.attribute.Remove-R1,23'
+
+@attribute Close numeric
+@attribute MA5 numeric
+@attribute MA10 numeric
+@attribute MA20 numeric
+@attribute MA50 numeric
+@attribute EMA12 numeric
+@attribute EMA26 numeric
+@attribute RSI numeric
+@attribute MACD numeric
+@attribute MACD_Signal numeric
+@attribute MACD_Hist numeric
+@attribute BB_Upper numeric
+@attribute BB_Middle numeric
+@attribute BB_Lower numeric
+@attribute ROC numeric
+@attribute Momentum numeric
+@attribute ATR numeric
+@attribute Volume numeric
+@attribute Amount numeric
+@attribute Volume_MA numeric
+@attribute Volume_Ratio numeric
+@attribute Change numeric
+@attribute Price_Position numeric
+@attribute Future_Return numeric
+@attribute Label {HOLD,UP,DOWN}
+
+@data
