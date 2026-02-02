@@ -1,4 +1,4 @@
-package com.stocktrading.examples;
+package com.stocktrading.example;
 
 import com.stocktrading.backtest.SignalGenerator;
 import com.stocktrading.data.DataSource;

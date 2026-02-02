@@ -1,4 +1,4 @@
-package com.stocktrading.examples;
+package com.stocktrading.example;
 
 import com.stocktrading.model.WekaModelTrainer;
 import com.stocktrading.model.ModelEvaluator;

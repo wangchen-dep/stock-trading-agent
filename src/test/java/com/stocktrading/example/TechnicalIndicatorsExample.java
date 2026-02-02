@@ -1,4 +1,4 @@
-package com.stocktrading.examples;
+package com.stocktrading.example;
 
 import com.stocktrading.features.TechnicalIndicators;
 
